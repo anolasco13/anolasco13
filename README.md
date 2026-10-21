@@ -1,4 +1,4 @@
-# Hi, I'm Alyssa Nolasco 👋
+# Hi, I'm Alyssa
 
 Computer Science graduate from **UC Santa Cruz** who likes working close to the machine: operating systems, concurrency, networking, and the C code that ties them together.
 
